@@ -4,5 +4,5 @@ DSA repository
  <code>
 System.out("Contribute");
 </code> <br>
--Contribute to this repository with "yourname" as branch name and make a pull request.
--Make relevent files in relevent folders and commit and push 
+- Contribute to this repository with "yourname" as branch name and make a pull request.
+- Make relevent files in relevent folders and commit and push 
