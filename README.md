@@ -1,8 +1,14 @@
-# Data-Structures-and-Algorithms
-DSA repository 
-# For the love of contributing for the open source community
- <code>
-System.out.println("Contribute");
-</code> <br>
-1. Contribute to this repository with "yourname" as branch name and make a pull request. <br>
-2. Make relevent files in relevent folders and commit and push 
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+-  `src/dataStructures` to maintain datastructures source code
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
